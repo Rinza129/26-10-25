@@ -6,8 +6,8 @@ int main(){
      cin>>n;
   
      for(int i=0;i<n;i++){
-          cout<<"Rinza Faria"<<endl;
-          cout<<"2312276129"<<endl;
+          cout<<"Name: Rinza Faria"<<endl;
+          cout<<"ID: 2312276129"<<endl;
      }
 
 }
